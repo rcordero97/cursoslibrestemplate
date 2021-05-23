@@ -1,0 +1,36 @@
+.iconorojo{
+    color:red;
+    font-size: 25px;
+}
+
+
+.estrellas{
+    color:#ffc107;
+}
+
+.tam{
+    width: 280px;
+    height: 200px;
+}
+
+.textAux{
+    text-align: left;
+}
+
+.ultimoFondo{
+    background-color: black;
+    color:white;
+}
+
+.flechas{
+    color:black;
+}
+
+.linkAux{
+    color:white;
+}
+
+.linkAux2{
+    font-size: 15px;
+    color:white;
+}
